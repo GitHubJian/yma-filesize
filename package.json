@@ -1,0 +1,10 @@
+{
+    "name": "yma-filesize",
+    "version": "1.0.0",
+    "description": "格式化文件大小",
+    "main": "./src/index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
